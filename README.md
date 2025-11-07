@@ -11,4 +11,14 @@ The goal of this challenge is to develop a model that can reliably identify digi
   <img src="cnn.png" alt="CNN Confusion Matrix" width="500">
 </p>
 
-The confusion matrix shows that the CNN model performs well, with most predictions aligned along the diagonal — indicating high accuracy.
+---
+
+## ⚙️ Performance
+
+| Metric | Accuracy |
+|:--------|:----------:|
+|  Training Accuracy | **97.5%** |
+| Validation Accuracy | **97.0%** |
+|  Test Accuracy | **97.06%** |
+
+The model demonstrates strong generalization across training, validation, and test sets, indicating effective learning and minimal overfitting.
